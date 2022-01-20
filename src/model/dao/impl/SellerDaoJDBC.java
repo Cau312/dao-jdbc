@@ -27,7 +27,9 @@ public class SellerDaoJDBC implements SellerDao{
 
 	@Override
 	public Seller findById(Integer id) {
-		// TODO Auto-generated method stub
+		
+		
+		
 		return null;
 	}
 
